@@ -56,11 +56,33 @@
       "endDate": "2024-09-01",
       "score": "10",
       "courses": []
+    },
+    {
+      "institution": "University of Liverpool",
+      "location": "Liverpool, UK",
+      "url": "https://www.liverpool.ac.uk/",
+      "area": "Computer Science and Technology",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2019-09-02",
+      "endDate": "2023-06-01",
+      "score": "10",
+      "courses": []
+    },
+    {
+      "institution": "Xi'an Jiaotong-Liverpool University",
+      "location": "Suzhou, China",
+      "url": "https://www.xjtlu.edu.cn/en",
+      "area": "Computer Science and Technology",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2019-09-01",
+      "endDate": "2023-06-01",
+      "score": "10",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "Certificate of Achievement",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
